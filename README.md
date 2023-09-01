@@ -2,7 +2,7 @@
 
 
 
-![237593769-4caaeee5-e804-42ae-b0f0-264a62f2d385](https://github.com/ANKURJUEE/RISC_V_PIPELINE/assets/143562100/9029be92-225e-433b-8058-0814222f6d94)
+![5-Stage-Pipelined-MIPS](https://github.com/ANKURJUEE/RISC_V_PIPELINE/assets/143562100/b142f6d8-012f-46da-abcf-e6616bf04758)
 
 
 
